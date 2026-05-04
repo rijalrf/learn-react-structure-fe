@@ -1,0 +1,74 @@
+[
+  {
+    "no_spk": "251231-1101",
+    "no_surat_jalan": "2600018",
+    "nama_pelanggan": "PBI",
+    "jenis_order": "Trucking & Material",
+    "tanggal_order": "10 January 2026",
+    "nopol": "B 9898 AKK",
+    "status": "Ongoing"
+  },
+  {
+    "no_spk": "251231-1119",
+    "no_surat_jalan": "2600019",
+    "nama_pelanggan": "ASS",
+    "jenis_order": "Trucking Only",
+    "tanggal_order": "11 January 2026",
+    "nopol": "Z 1234 AB",
+    "status": "Ongoing"
+  },
+  {
+    "no_spk": "260108-0001",
+    "no_surat_jalan": "2600020",
+    "nama_pelanggan": "TBQ",
+    "jenis_order": "Trucking Only",
+    "tanggal_order": "12 January 2026",
+    "nopol": "D 8821 BB",
+    "status": "Ongoing"
+  },
+  {
+    "no_spk": "260108-0002",
+    "no_surat_jalan": "2600021",
+    "nama_pelanggan": "VCT",
+    "jenis_order": "Trucking & Material",
+    "tanggal_order": "13 January 2026",
+    "nopol": "B 4412 CC",
+    "status": "Ongoing"
+  },
+  {
+    "no_spk": "260108-0003",
+    "no_surat_jalan": "2600022",
+    "nama_pelanggan": "BRK",
+    "jenis_order": "Trucking Only",
+    "tanggal_order": "14 January 2026",
+    "nopol": "T 9901 DA",
+    "status": "Ongoing"
+  },
+  {
+    "no_spk": "260109-0004",
+    "no_surat_jalan": "2600023",
+    "nama_pelanggan": "KSK",
+    "jenis_order": "Trucking & Material",
+    "tanggal_order": "15 January 2026",
+    "nopol": "E 7721 FG",
+    "status": "Ready To Process"
+  },
+  {
+    "no_spk": "260109-0005",
+    "no_surat_jalan": "2600024",
+    "nama_pelanggan": "PBI",
+    "jenis_order": "Trucking Only",
+    "tanggal_order": "16 January 2026",
+    "nopol": "F 3310 GH",
+    "status": "Ready To Process"
+  },
+  {
+    "no_spk": "260109-0006",
+    "no_surat_jalan": "2600025",
+    "nama_pelanggan": "ASS",
+    "jenis_order": "Trucking Only",
+    "tanggal_order": "17 January 2026",
+    "nopol": "A 4451 KL",
+    "status": "Ready To Process"
+  }
+]
